@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Elite Horizon | Luxury Stays in Zakynthos</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <img src="assets/logo.png" alt="Elite Horizon Logo" class="logo"/>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#villas">Villas</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section class="hero">
+    <h1>Welcome to Elite Horizon</h1>
+    <p>Experience Hyper Luxury Living in Zakynthos</p>
+    <a href="#contact" class="cta">Become a Partner</a>
+  </section>
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Elite Horizon is a new-age luxury brand offering premium villa experiences in Zakynthos.</p>
+  </section>
+  <section id="villas">
+    <h2>Our Villas</h2>
+    <p>Our first pool villa is launching soon in Laganas.</p>
+  </section>
+  <section id="contact">
+    <h2>Partner or Invest</h2>
+    <p>Email: <a href="mailto:thelitehorizon@gmail.com">thelitehorizon@gmail.com</a></p>
+  </section>
+  <footer>
+    <p>© 2025 Elite Horizon. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
